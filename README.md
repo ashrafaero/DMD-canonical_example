@@ -1,2 +1,2 @@
 # DMD
-Everything related to Dynamic Mode Decomposition (DMD)
+Simple problem about Dynamic Mode Decomposition (DMD) algorthim and pyDMD package
